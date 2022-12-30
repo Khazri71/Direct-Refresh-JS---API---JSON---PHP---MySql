@@ -1,4 +1,0 @@
-1- Template page : .html
-2- Create a database - table users  : MySql
-3- Create API page : .php
-4- Get API in javascript : .js
